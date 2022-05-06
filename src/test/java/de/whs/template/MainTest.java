@@ -1,6 +1,5 @@
 package de.whs.template;
 
-import de.whs.template.Main;
 import org.junit.jupiter.api.Test;
 import java.io.ByteArrayOutputStream;
 
