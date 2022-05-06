@@ -34,7 +34,7 @@ If you don't want to use the same VM as maven, you can pass
 the generated ```.jar``` file to the locally installed java runtime:
 
 ```bash
-$ java -jar ./target/template-1.0-jar-with-dependencies.jar
+$ java -jar ./target/starter-template-1.0-jar-with-dependencies.jar
 ```
 
 ### Documentation
